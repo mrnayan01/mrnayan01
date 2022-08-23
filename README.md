@@ -9,9 +9,9 @@ I live in Bangladesh
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Script  
-- 🌱 I’m currently learning java script  
-- 👯 I’m looking to collaborate on Git Hub 
+- 🔭 I’m currently working on Script  🖤
+- 🌱 I’m currently learning java script  🖤
+- 👯 I’m looking to collaborate on Git Hub 🖤
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mrnayan01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/MR.NAYAN.01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/01615298449)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mdmnnm2004@gmail.com)  
